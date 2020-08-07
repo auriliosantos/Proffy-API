@@ -1,3 +1,4 @@
+Estado atualizado até a 4ª aula.
 # Funcionalidades
 
 ## Conexões
